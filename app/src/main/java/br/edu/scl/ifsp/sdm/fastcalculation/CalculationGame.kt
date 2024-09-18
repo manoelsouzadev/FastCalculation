@@ -1,4 +1,4 @@
-package br.edu.ifsp.scl.fastcalculation
+package br.edu.scl.ifsp.sdm.fastcalculation
 
 import kotlin.random.Random
 

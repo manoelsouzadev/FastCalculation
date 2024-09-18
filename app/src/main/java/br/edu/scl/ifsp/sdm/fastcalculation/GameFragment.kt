@@ -1,4 +1,4 @@
-package br.edu.ifsp.sdm.fastcalculation
+package br.edu.scl.ifsp.sdm.fastcalculation
 
 import android.os.Bundle
 import android.os.Handler
