@@ -8,9 +8,9 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import br.edu.ifsp.scl.fastcalculation.GameFragment
 import br.edu.ifsp.scl.fastcalculation.OnPlayGame
 import br.edu.ifsp.scl.fastcalculation.WelcomeFragment
+import br.edu.ifsp.sdm.fastcalculation.GameFragment
 import br.edu.scl.ifsp.sdm.fastcalculation.databinding.ActivityGameBinding
 
 class GameActivity : AppCompatActivity(), OnPlayGame  {
