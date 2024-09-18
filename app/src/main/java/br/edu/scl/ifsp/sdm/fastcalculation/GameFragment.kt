@@ -1,4 +1,4 @@
-package br.edu.ifsp.scl.fastcalculation
+package br.edu.ifsp.sdm.fastcalculation
 
 import android.os.Bundle
 import android.os.Handler
@@ -10,6 +10,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import androidx.fragment.app.FragmentTransaction
+import br.edu.ifsp.scl.fastcalculation.CalculationGame
+import br.edu.ifsp.scl.fastcalculation.ResultFragment
 import br.edu.scl.ifsp.sdm.fastcalculation.Extras
 import br.edu.scl.ifsp.sdm.fastcalculation.R
 import br.edu.scl.ifsp.sdm.fastcalculation.Settings
